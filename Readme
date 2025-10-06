@@ -1,1 +1,80 @@
+# 🛒 E-Commerce Sales Analysis Dashboard (Excel)
+
+## 📊 Project Overview
+This project is an interactive **E-Commerce Sales Analysis Dashboard** built entirely in **Microsoft Excel** — no external tools or code were used.  
+The goal is to analyze key performance indicators (KPIs) such as **Sales, Profit, Quantity, Orders, and Profit Margin** to evaluate business performance and identify trends that drive decision-making.
+
+---
+
+## 🎯 Objectives
+- Visualize overall business performance using Excel dashboards.
+- Track **Year-over-Year (YOY)** growth across key metrics.
+- Analyze **category-wise** and **regional sales distribution**.
+- Identify **top-performing product sub-categories**.
+- Enable management to make **data-driven strategic decisions** using Excel visuals.
+
+---
+
+## 🧮 Key Metrics
+| Metric | Value | YOY Growth |
+|---------|--------|------------|
+| **Total Sales** | ₹1,27,463.73 | 🔼 57.96% |
+| **Total Profit** | ₹91,522.78 | 🔼 28.64% |
+| **Quantity Sold** | 1,913 | 🔼 27.45% |
+| **No. of Orders** | 502 | 🔼 14.41% |
+| **Profit Margin** | 20.95% | 🔻 5.15% |
+
+---
+
+## 📈 Dashboard Components
+### 1. **KPI Cards**
+- Show Sales, Profit, Quantity, Orders, and Profit Margin.
+- Include YOY growth arrows for quick insights.
+
+### 2. **Sales and Profit Trend (Monthly)**
+- Combination chart to compare monthly sales vs. profit trends.
+
+### 3. **Category-wise Profit & Sales**
+- Bar chart for profit by category.
+- Donut chart for category-wise sales contribution:
+  - **Technology:** 46.92%  
+  - **Office Supplies:** 29.64%  
+  - **Furniture:** 23.43%
+
+### 4. **Top 10 Sub-Categories**
+- Horizontal bar chart showing highest-selling subcategories like Phones, Copiers, and Storage.
+
+### 5. **Regional Sales Map**
+- Conditional formatting map to visualize regional sales volume.
+
+### 6. **Interactive Filters**
+- Year (2011-2014)  
+- Region (Central, East, South, West)  
+- Segment (Consumer, Corporate, Home Office)
+
+---
+
+## 🧰 Tools & Techniques Used
+| Tool / Feature | Purpose |
+|----------------|----------|
+| **Microsoft Excel** | Dashboard creation |
+| **Pivot Tables** | Data summarization |
+| **Pivot Charts** | Dynamic visuals |
+| **Slicers** | Interactive filtering |
+| **Conditional Formatting** | Visual emphasis on performance |
+| **Formulas** | Calculations for KPIs and YOY growth |
+| **Excel Map Chart** | Geographic sales visualization |
+
+---
+
+## 🧠 Key Insights
+- **Technology** category generated the highest sales and profit share.
+- Overall **sales and profit grew significantly YOY**, indicating strong business performance.
+- **Profit margin declined** slightly — potential focus area for cost or discount optimization.
+- **Phones, Copiers, and Storage** emerged as top-selling subcategories.
+- **Central and East regions** show strong potential for growth.
+
+---
+
+## 📂 Repository Structure
 
